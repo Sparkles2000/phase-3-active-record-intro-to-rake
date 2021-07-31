@@ -24,7 +24,6 @@ easy way to run common tasks from the command line.
 Every program has some tasks that must be executed now and then. For example,
 the task of creating a database table, the task of making or maintaining certain
 files. Before Rake was invented, we would have to write standalone bash scripts
-that accomplish these tasks, or we would have to make potentially confusing and
 arbitrary decisions about what segment of our Ruby program would be responsible
 for executing these tasks.
 
